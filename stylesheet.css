@@ -1,0 +1,26 @@
+h1{
+	font-size: 2.3em;
+	text-align: center;
+	color: white;
+}
+body {
+    color: white;
+}
+div.scrollmenu {
+	background-color: #343;
+	overflow: auto;
+	white-space: nowrap;
+}
+
+div.scrollmenu a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	color: white;
+	padding: 14px;
+	text-decoration: none;
+}
+
+div.scrollmenu a:hover {
+	background-color: #777;
+}
